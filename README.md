@@ -1,6 +1,5 @@
 # EPL Insights
 
-EPL Insights is a web application written using DJango and Bootstrap which allows users to view match data, view season stats,
-and view and save match predictions.The data for EPL Insights was gathered using the Premier League web scraper I also made, which
-has been imported into a database. Users can filter the data by season, team, or stadium, as well as having the ability to view
-information based on each team.
+EPL Insights is a web application that allows for users to view data such as standings and match results based on every season since 1888-1889, as well as viewing data from every team that has played since then. 
+
+EPL Insights is built on the Django framework and is deployed using railway.
