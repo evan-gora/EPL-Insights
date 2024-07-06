@@ -24,7 +24,7 @@ body {
     text-align: center;
     font-size: 75px;
     font-weight: 800;
-    padding-top: 250px;
+    padding-top: 100px;
     padding-bottom: 100px;
     animation: fadeIn 5s;
 }
@@ -96,6 +96,7 @@ table {
     overflow-x: visible;
     overflow-y: auto;
     margin-top: 0px;
+    margin-bottom: 50px;
     width: 100%;
 }
 th {
